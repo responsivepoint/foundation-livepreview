@@ -1,0 +1,15 @@
+
+
+#pattern-wrap{
+    padding-bottom: 2em;
+}
+
+#markup textarea{
+    height: 30em;
+    font-family: courier;
+}
+
+#pattern h4{
+    padding-bottom: 1em;
+    padding-top: 2em;
+}
